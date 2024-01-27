@@ -1,8 +1,6 @@
-## README for IST 557 Data Mining 1 - Course Projects
 # Overview
 This repository contains projects for IST 557 Data Mining 1, including both individual and group projects focusing on various aspects of data mining and machine learning.
 
-# Projects
 # Individual Projects
 
 - IP1 - Machine Learning for Category Detection:
